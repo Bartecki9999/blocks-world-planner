@@ -1,0 +1,3 @@
+# blocks 2 and 3 both rest on block 1
+0 1 1
+0 0 0
